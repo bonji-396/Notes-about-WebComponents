@@ -11,6 +11,8 @@ https://developer.mozilla.org/ja/docs/Web/API/Web_components
 - [HTML Template](doc/html-template.md)
 - [Slot](doc/slot.md)
 - [擬似クラス](doc/pseudo-classes.md)
+- [制約検証API（Constraint Validation API）を Web Componentsに取り込む](doc/constraint-validation-api.md)
+- [Web Componentsのパフォーマンス](doc/web-components-performance.md)
 
 ### sample source
 - [登録フォーム](sample_sources/javascript-version-registration-form/index.md)
@@ -22,10 +24,10 @@ https://developer.mozilla.org/ja/docs/Web/API/Web_components
 ### sample source
 - [登録フォーム](sample_sources/typescript-version-registration-form/index.md)
 
-## その他
-- [制約検証API（Constraint Validation API）を Web Componentsに取り込む](doc/constraint-validation-api.md)
-- [Web Componentsのパフォーマンス](doc/about-web-components.md)
-
 ## Web Compnents 開発ライブラリ
 
 - Lit
+
+## CSS設計とWeb Componentsでのアプローチ
+- CSS設計
+- Web ComponentsでのCSS設計
